@@ -7,7 +7,7 @@ $ npm i
 # Build server
 
 ```bash
-$ npm run build:server
+$ npm run build
 ```
 
 # Run server
